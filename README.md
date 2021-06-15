@@ -1,7 +1,7 @@
 # bmicalculator
 
-A new Flutter project.
-
+A starter Project to Learn Flutter.
+### Its My First day on Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
